@@ -23,7 +23,7 @@
 
 - 🎓 B.Tech in Civil Engineering + MBA in Marketing & Business Analytics  
 - 💡 **Data Analyst Enthusiast** with hands-on experience in Python, SQL, and Power BI  
-- 🧠 Skilled in **EDA**, **Machine Learning**, **Power BI Dashboards**, and **Data Storytelling**  
+- 🧠 Skilled in **EDA**,**SQL**,**Machine Learning**, **Power BI Dashboards**, and **Data Storytelling**  
 - 🚀 Focused on transforming raw datasets into actionable business insights  
 - ⚡ In my free time, I solve SQL & Python challenges and explore data visualization techniques  
 - 😄 *Fun fact:* I see data as a story waiting to be told — and I love being its narrator 📊  
