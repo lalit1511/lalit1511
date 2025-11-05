@@ -58,9 +58,9 @@ or connect with me on [LinkedIn](https://www.linkedin.com/in/lalit-verma-5a2b541
 
 | Project | Domain | Tools & Skills |
 |----------|---------|----------------|
-| 🚕 [**NYC Taxi Data Analytics**](https://github.com/lalit1511/NYC-Taxi-Analytics) | Transportation / EDA | Python, Pandas, Seaborn, GeoPandas, Matplotlib |
-| 🧬 [**Global Cancer Analytics Dashboard (2015–2024)**](https://github.com/lalit1511/Global-Cancer-Analytics-Dashboard) | Healthcare / BI | Power BI, Advanced DAX, Power Query |
-| 🌍 [**Export Potential Index (SQL-Based)**](https://github.com/lalit1511/Export-Potential-Index) | International Trade / SQL | MySQL, CTEs, Joins, Trade Analytics |
+| 🚕 [**NYC Taxi Data Analytics**](https://github.com/lalit1511/NYC-taxi-project) | Transportation / EDA | Python, Pandas, Seaborn, GeoPandas, Matplotlib |
+| 🧬 [**Global Cancer Analytics Dashboard (2015–2024)**](https://github.com/lalit1511/Cancer-dashboard) | Healthcare / BI | Power BI, Advanced DAX, Power Query |
+| 🌍 [**Export Potential Index (SQL-Based)**](https://github.com/lalit1511/Export-potential-prediction) | International Trade / SQL | MySQL, CTEs, Joins, Trade Analytics |
 
 ---
 
