@@ -12,7 +12,7 @@
 </div>
 <div align="center">
 <div id="badges">
-  <a href="linkedin.com/in/lalit-verma-5a2b54198">
+  <a href="https://www.linkedin.com/in/lalit-verma-5a2b54198/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/lalitvermaanalyst">
@@ -27,7 +27,7 @@
 - 🏢 Currently employed as a Data Analyst in a Marketing Research company.
 - ⚡ In my free time, I love to solve problems on HackerRank and read tech articles.
 - 😆 Fun fact: If data science were a sport, I'd be the MVP of finding patterns in numbers and predicting the future!
-- 📫 How to reach me: <a href="lalit.verma1905@gmail.com"></a> | or connect with me on <a href="linkedin.com/in/lalit-verma-5a2b54198">My LinkedIn.</a>
+- 📫 How to reach me: <a href="lalit.verma1905@gmail.com"></a> | or connect with me on <a href="https://www.linkedin.com/in/lalit-verma-5a2b54198/">My LinkedIn.</a>
   
 
 <br>
